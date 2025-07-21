@@ -30,7 +30,7 @@
 ## 🧰 Tecnologías que uso
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,mysql,git,access,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,mysql,git,html,css" />
 </div>
 
 ---
