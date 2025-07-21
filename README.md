@@ -1,7 +1,7 @@
 <h1 align="center">✨ ¡Hola, soy Munir! ✨</h1>
 
 <p align="center">
-  Desarrollador de software 💻 | Apasionado por Java, Spring Boot y el desarrollo web 🌐  
+  Desarrollador de software 💻 | Apasionado por Java, Spring Boot y la integracion de la IA desde java 🌐  
   <br>
   Siempre aprendiendo y construyendo cosas nuevas 🚀
 </p>
@@ -11,8 +11,8 @@
 ## 🧠 Sobre mí
 
 - 🎓 Recién graduado en Desarrollo de Aplicaciones Multiplataforma (DAM)
-- 🛠️ Especializado en **Java**, **Spring Boot**, **MySQL**, **Angular** y **APIs REST**
-- 🌱 Aprendiendo actualmente: **Spring Security**, **JWT**, y **Docker**
+- 🛠️ Especializado en **Java**, **Spring Boot**, **MySQL**, **AccessDB** y **APIs REST**
+- 🌱 Aprendiendo actualmente: **Angular**, **JWT**, y **SpringIA**
 - ⚙️ Amante del código limpio, el backend sólido y las buenas prácticas
 
 ---
@@ -21,16 +21,16 @@
 
 | Proyecto | Descripción | Tecnologías |
 |---------|-------------|-------------|
-| [📋 Tareas App](https://github.com/tuusuario/tareas-app) | App para gestionar tareas personales y laborales | Java, Spring Boot, MySQL |
-| [🔐 API con Seguridad](https://github.com/tuusuario/api-jwt) | Backend con login seguro y JWT | Spring Boot, Spring Security |
-| [💡 Frontend Angular](https://github.com/tuusuario/frontend-angular) | Interfaz moderna conectada a API propia | Angular, TypeScript |
+| [📋 Spring Boot](https://github.com/MunirEm/BootApiRestandMysql) | App para gestionar tareas personales y laborales | Java, Spring Boot, MySQL |
+| [🔐 JavaFX](https://github.com/MunirEm/javaFx) | proyecto es una aplicación de escritorio creada con JavaFX | JavaFX |
+| [💡 Swing](https://github.com/MunirEm/control_vuelo) | Este proyecto simula el proceso completo de despegue de un avión desde una cabina virtual | Swing, AccessDB |
 
 ---
 
 ## 🧰 Tecnologías que uso
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,js,ts,mysql,git,docker,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,spring,swing,js,ts,mysql,git,javafx,html,css" />
 </div>
 
 ---
