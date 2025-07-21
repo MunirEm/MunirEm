@@ -30,15 +30,15 @@
 ## 🧰 Tecnologías que uso
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,swing,js,ts,mysql,git,javafx,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,mysql,git,access,html,css" />
 </div>
 
 ---
 
 ## 📫 ¿Hablamos?
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)
-- 📧 Email: munir@example.com  
+- 💼 [LinkedIn](linkedin.com/in/munir-em-4503bb30b)
+- 📧 Email: mounircorreos@gmail.com  
 - 🐙 Revisa mis proyectos aquí en GitHub o propón una colaboración
 
 ---
