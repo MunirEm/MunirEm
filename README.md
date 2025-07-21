@@ -20,7 +20,7 @@
 ## 🚀 Proyectos destacados
 
 | Proyecto | Descripción | Tecnologías |
-|---------|-------------|-------------|
+|----------|-------------|-------------|
 | [📋 Spring Boot](https://github.com/MunirEm/BootApiRestandMysql) | App para gestionar tareas personales y laborales | Java, Spring Boot, MySQL |
 | [🔐 JavaFX](https://github.com/MunirEm/javaFx) | proyecto es una aplicación de escritorio creada con JavaFX | JavaFX |
 | [💡 Swing](https://github.com/MunirEm/control_vuelo) | Este proyecto simula el proceso completo de despegue de un avión desde una cabina virtual | Swing, AccessDB |
