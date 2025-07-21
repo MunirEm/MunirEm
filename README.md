@@ -21,11 +21,12 @@
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| [📋 Spring Boot](https://github.com/MunirEm/BootApiRestandMysql) | App para gestionar tareas personales y laborales | Java, Spring Boot, MySQL |
-| [🔐 JavaFX](https://github.com/MunirEm/javaFx) | proyecto es una aplicación de escritorio creada con JavaFX | JavaFX |
-| [💡 Swing](https://github.com/MunirEm/control_vuelo) | Este proyecto simula el proceso completo de despegue de un avión desde una cabina virtual | Swing, AccessDB |
+| [📋 Spring Boot API](https://github.com/MunirEm/BootApiRestandMysql) | API REST para gestionar tareas personales, conectada a base de datos MySQL | Java, Spring Boot, MySQL |
+| [🔐 Aplicación JavaFX](https://github.com/MunirEm/javaFx) | Aplicación de escritorio moderna con JavaFX para gestión de datos visuales | JavaFX |
+| [💡 Simulador de Vuelo (Swing)](https://github.com/MunirEm/control_vuelo) | Simula el proceso completo de despegue desde una cabina virtual | Java Swing, AccessDB |
 
 ---
+
 
 ## 🧰 Tecnologías que uso
 
